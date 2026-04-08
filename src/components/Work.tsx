@@ -3,33 +3,35 @@ import "./styles/Work.css";
 import WorkImage from "./WorkImage";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
+const BASE_URL = import.meta.env.BASE_URL;
+
 const projects = [
   {
     title: "Azure Cloud Platform",
     category: "Enterprise Cloud Infrastructure",
     tools: "Microsoft Azure, Kubernetes, Terraform, ArgoCD",
-    image: "/images/azure-cloud.png",
+    image: `${BASE_URL}images/azure-cloud.png`,
     link: "#",
   },
   {
     title: "CI/CD Pipeline Automation",
     category: "DevOps Infrastructure",
     tools: "GitHub Actions, ArgoCD, Docker, Helm",
-    image: "/images/cicd-pipeline.png",
+    image: `${BASE_URL}images/cicd-pipeline.png`,
     link: "#",
   },
   {
     title: "Monitoring & Observability",
     category: "Infrastructure Monitoring",
     tools: "Prometheus, Grafana, Azure Monitor, Alerting",
-    image: "/images/monitoring.png",
+    image: `${BASE_URL}images/monitoring.png`,
     link: "#",
   },
   {
     title: "Infrastructure as Code",
     category: "Cloud Automation",
     tools: "Terraform, Ansible, ARM Templates, GitOps",
-    image: "/images/iac.png",
+    image: `${BASE_URL}images/iac.png`,
     link: "#",
   },
 ];
