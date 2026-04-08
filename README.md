@@ -4,7 +4,7 @@ This repository contains the source code for a personal 3D portfolio built with 
 
 Live site: [https://saichandevorem.github.io/3d-portfolio/](https://saichandevorem.github.io/3d-portfolio/)
 
-![Portfolio Preview](public/images/preview1.png)
+![Portfolio Preview](public/images/saichander.png)
 
 ## Table of Contents
 
