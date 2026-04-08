@@ -11,6 +11,14 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
+                href="mailto:saichander944@gmail.com"
+                data-cursor="disable"
+              >
+                saichander944@gmail.com
+              </a>
+            </p>
+            <p>
+              <a
                 href="https://www.linkedin.com/in/saichander-reddy-vorem-683870229/"
                 target="_blank"
                 rel="noreferrer"
