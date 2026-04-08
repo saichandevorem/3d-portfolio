@@ -11,19 +11,19 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/saichander-vorem/"
+                href="https://www.linkedin.com/in/saichander-reddy-vorem-683870229/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — saichander-vorem
+                LinkedIn — saichander-reddy-vorem
               </a>
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/saichander-vorem"
+              href="https://github.com/saichandevorem"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -32,7 +32,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/saichander-vorem/"
+              href="https://www.linkedin.com/in/saichander-reddy-vorem-683870229/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
